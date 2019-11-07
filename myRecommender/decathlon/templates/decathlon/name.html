@@ -1,0 +1,26 @@
+{% load material_form %}
+
+{% block side_content %}
+<div class="col card l3 m12 s12">
+    <ul class="collection with-header">
+        <li class="collection-header"><h4>Decathlon Recommendation</li>
+        <li class="collection-item"><a href="{% url 'student_data' %}">Information</a></li>
+    </ul>
+</div>
+{% endblock %}
+
+{% block main %}
+    <div class="col l9 m12 s12">
+        <div class="card container">
+            <div class="card-content">
+                 <form method="POST" enctype="multipart/form-data">
+                     {% csrf_token %}
+                     {% form form=form %}{% endform %}
+                     <button class="btn waves-effect waves-light white-text" type="submit">
+                       Submit <i class="material-icons right">send</i>
+                     </button>
+                 </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}

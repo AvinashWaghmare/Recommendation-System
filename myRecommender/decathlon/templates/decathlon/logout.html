@@ -1,0 +1,43 @@
+{% load material_form %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Student Information Form</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        {% include 'material/includes/material_css.html' %}
+        {% include 'material/includes/material_js.html' %}
+        {% block extra-css %}{% endblock %}
+    </head>
+
+    <body class="grey ligten-1">
+      <div class="navbar-fixed">
+        <nav class="indigo">
+          <div class="nav-wrapper container">
+            <a href="#" class="brand-logo" id="brand">ML Dashboard</a>
+            <ul class="right">
+                {% if user.is_authenticated %}
+                <li><a href="{% url 'logout' %}">Logout</a></li>
+                {% else %}
+                <li><a href="{% url 'login' %}">Login</a></li>
+                <li><a href="{% url 'signup' %}">Sign Up</a></li>
+                {% endif %}
+            </ul>
+          </div>
+        </nav>
+      </div>
+      <div class="card">
+          <div class="card-content">
+            {% if user.is_authenticated %}
+            <p> Hi {{user.username }}!
+
+            <button href="{% url 'logout' %}" class="btn waves-effect waves-ligten white-text" type="submit">
+                Submit <i class="material-icons right">send</i>
+            </button>
+            {% else %}
+             <p> Seems you are not logged in.
+            <button href="{% url 'login' %}" class="btn waves-effect waves-ligten white-text" type="submit">
+                Login <i class="material-icons right">send</i>
+            </button>
+            {% endfor %}
+      </div>

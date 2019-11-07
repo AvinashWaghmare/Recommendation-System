@@ -1,0 +1,137 @@
+Gender,Age,Cycle_Type,Cycle_id,Cycling_Reason,MRP,Cycle
+Male,2,Kids Bike,4454833,Playing,2999,Balance Bike Runride
+Male,3,Kids Bike,1234590,Playing,4999,Btwin Robot
+Male,4,Kids Bike,3454264,Playing,4999,Arctic 100
+Male,5,Kids Bike,4563361,Playing,5499,Darkhero 500
+Male,4,Kids Bike,6754535,Playing,6999,Racing Boy 320
+Male,3,Kids Bike,8094518,Playing,5499,Inuit 100
+Male,5,Kids Bike,3763781,Playing,5499,Mistigirl 300
+Male,3,Kids Bike,6583190,Playing,6999,Mistigirl 320
+Male,7,Kids Bike,3453147,Playing,5999,Rockrider 100
+Male,8,Kids Bike,8974225,Playing,8499,Rockrider 300 Jr.
+Male,9,Kids Bike,7013035,Playing,6999,Rockrider ST 120 mtb
+Male,10,Kids Bike,7024599,Playing,5999,Rockrider ST 100 Mtb - Red
+Male,11,Kids Bike,2563594,Playing,5999,Racing Boy
+Male,9,Kids Bike,2344971,Playing,8499,Poply 300
+Male,10,Kids Bike,9741381,Playing,6499,Original 50
+Male,8,Kids Bike,5463099,Playing,6499,Poply 100
+Male,10,Kids Bike,7654545,Playing,5499,Original 100
+Male,13,Moutain Bike,3543269,Exercise and Commute,25999,Rockrider ST 100 Mountain bike -Black
+Male,14,Moutain Bike,6452786,Exercise and Commute,25999,Rockrider 520 mtb cycle
+Male,15,Moutain Bike,6784484,Exercise and Commute,31999,Rockrider 540 red mtb cycle
+Male,16,Moutain Bike,3493042,Exercise and Commute,12999,Rockrider 340 orange mtb cycle
+Male,17,Moutain Bike,1282865,Exercise and Commute,13999,Rockrider 340 grey yellow mtb cycle
+Male,18,Moutain Bike,8761061,Exercise and Commute,16999,Rockrider ST 100 Mountain bike -Grey
+Male,19,Moutain Bike,4534883,Exercise and Commute,52999,Rockrider 560 mtb cycle
+Male,20,Hybrid/Comfort Bike,4734847,Exercise and Commute and Lond Distance,6999,Riverside 50
+Male,21,Hybrid/Comfort Bike,5464484,Exercise and Commute and Lond Distance,7999,Riverside 100
+Male,22,Hybrid/Comfort Bike,2534222,Exercise and Commute and Lond Distance,10999,Riverside 120
+Male,23,Hybrid/Comfort Bike,6544414,Exercise and Commute and Lond Distance,8999,Riverside 100-Red
+Male,25,Hybrid/Comfort Bike,5494239,Exercise and Commute and Lond Distance,22999,Riverside 500
+Male,24,Hybrid/Comfort Bike,1541964,Exercise and Commute and Lond Distance,37999,Riverside 900
+Male,26,Hybrid/Comfort Bike,6753571,Exercise and Commute and Lond Distance,11999,Riverside 120-Grey
+Male,27,Road Bike,3451847,Long Distance,19999,Triban 100
+Male,28,Road Bike,9451334,Long Distance,74999,Triban RC 520
+Male,15,Road Bike,7864885,Long Distance,89999,Road Racing 900 AF CN
+Male,20,Road Bike,2431831,Long Distance,19999,Triban 100 Flat Bar
+Male,25,Road Bike,8764868,Long Distance,119999,Ultra 900 Carbon Frame
+Male,23,Road Bike,4561940,Long Distance,34999,Triban RC
+Male,22,Road Bike,4322491,Long Distance,54999,Triban RC 500
+Male,21,Road Bike,5674415,Long Distance,84999,Ultra 700 AL
+Male,23,Road Bike,4563196,Long Distance,74999,Roadr 500 AFGF
+Female,26,Road Bike,5674461,Long Distance,84999,Ultra 700
+Female,27,RiverSide Bike,7893769,Commute,11999,120 Grey Yellow.
+Female,28,RiverSide Bike,6784540,Commute,6999,Riverside 50
+Female,29,RiverSide Bike,9803389,Commute,7999,Riverside 100
+Female,30,RiverSide Bike,9083034,Commute,10999,Riverside 120
+Female,25,RiverSide Bike,8904822,Commute,22999,Riverside 500
+Female,19,RiverSide Bike,7894993,Commute,37999,Riverside 900
+Female,18,RiverSide Bike,7893575,Commute,8999,Riverside 100 - Red
+Male,8,Kids Bike,8974225,Playing,8499,Rockrider 300 Jr.
+Male,9,Kids Bike,7013035,Playing,6999,Rockrider ST 120 mtb
+Male,10,Kids Bike,7024599,Playing,5999,Rockrider ST 100 Mtb - Red
+Male,11,Kids Bike,2563594,Playing,5999,Racing Boy
+Male,9,Kids Bike,2344971,Playing,8499,Poply 300
+Male,10,Kids Bike,9741381,Playing,6499,Original 50
+Male,20,Road Bike,2431831,Long Distance,19999,Triban 100 Flat Bar
+Male,25,Road Bike,8764868,Long Distance,119999,Ultra 900 Carbon Frame
+Male,23,Road Bike,4561940,Long Distance,34999,Triban RC
+Male,22,Road Bike,4322491,Long Distance,54999,Triban RC 500
+Male,21,Road Bike,5674415,Long Distance,84999,Ultra 700 AL
+Male,23,Road Bike,4563196,Long Distance,74999,Roadr 500 AFGF
+Female,26,Road Bike,5674461,Long Distance,84999,Ultra 700
+Male,13,Moutain Bike,3543269,Exercise and Commute,25999,Rockrider ST 100 Mountain bike -Black
+Male,14,Moutain Bike,6452786,Exercise and Commute,25999,Rockrider 520 mtb cycle
+Male,15,Moutain Bike,6784484,Exercise and Commute,31999,Rockrider 540 red mtb cycle
+Male,16,Moutain Bike,3493042,Exercise and Commute,12999,Rockrider 340 orange mtb cycle
+Female,25,RiverSide Bike,8904822,Commute,22999,Riverside 500
+Female,19,RiverSide Bike,7894993,Commute,37999,Riverside 100 - Red
+Female,18,RiverSide Bike,7893575,Commute,8999,Arctic 100
+Male,2,Kids Bike,4454833,Playing,2999,Balance Bike Runride
+Male,3,Kids Bike,1234590,Playing,4999,Btwin Robot
+Male,4,Kids Bike,3454264,Playing,4999,Arctic 100
+Male,5,Kids Bike,4563361,Playing,5499,Darkhero 500
+Male,4,Kids Bike,6754535,Playing,6999,Racing Boy 320
+Male,3,Kids Bike,8094518,Playing,5499,Inuit 100
+Male,5,Kids Bike,3763781,Playing,5499,Mistigirl 300
+Male,3,Kids Bike,6583190,Playing,6999,Mistigirl 320
+Male,7,Kids Bike,3453147,Playing,5999,Rockrider 100
+Male,8,Kids Bike,8974225,Playing,8499,Rockrider 300 Jr.
+Male,9,Kids Bike,7013035,Playing,6999,Rockrider ST 120 mtb
+Male,10,Kids Bike,7024599,Playing,5999,Rockrider ST 100 Mtb - Red
+Male,11,Kids Bike,2563594,Playing,5999,Racing Boy
+Male,9,Kids Bike,2344971,Playing,8499,Poply 300
+Male,10,Kids Bike,9741381,Playing,6499,Original 50
+Male,8,Kids Bike,5463099,Playing,6499,Poply 100
+Male,10,Kids Bike,7654545,Playing,5499,Original 100
+Male,13,Moutain Bike,3543269,Exercise and Commute,25999,Rockrider ST 100 Mountain bike -Black
+Male,14,Moutain Bike,6452786,Exercise and Commute,25999,Rockrider 520 mtb cycle
+Male,15,Moutain Bike,6784484,Exercise and Commute,31999,Rockrider 540 red mtb cycle
+Male,16,Moutain Bike,3493042,Exercise and Commute,12999,Rockrider 340 orange mtb cycle
+Male,17,Moutain Bike,1282865,Exercise and Commute,13999,Rockrider 340 grey yellow mtb cycle
+Male,18,Moutain Bike,8761061,Exercise and Commute,16999,Rockrider ST 100 Mountain bike -Grey
+Male,19,Moutain Bike,4534883,Exercise and Commute,52999,Rockrider 560 mtb cycle
+Male,20,Hybrid/Comfort Bike,4734847,Exercise and Commute and Lond Distance,6999,Riverside 50
+Male,21,Hybrid/Comfort Bike,5464484,Exercise and Commute and Lond Distance,7999,Riverside 100
+Male,22,Hybrid/Comfort Bike,2534222,Exercise and Commute and Lond Distance,10999,Riverside 120
+Male,23,Hybrid/Comfort Bike,6544414,Exercise and Commute and Lond Distance,8999,Riverside 100-Red
+Male,25,Hybrid/Comfort Bike,5494239,Exercise and Commute and Lond Distance,22999,Riverside 500
+Male,24,Hybrid/Comfort Bike,1541964,Exercise and Commute and Lond Distance,37999,Riverside 900
+Male,26,Hybrid/Comfort Bike,6753571,Exercise and Commute and Lond Distance,11999,Riverside 120-Grey
+Male,27,Road Bike,3451847,Long Distance,19999,Triban 100
+Male,28,Road Bike,9451334,Long Distance,74999,Triban RC 520
+Male,15,Road Bike,7864885,Long Distance,89999,Road Racing 900 AF CN
+Male,20,Road Bike,2431831,Long Distance,19999,Triban 100 Flat Bar
+Male,25,Road Bike,8764868,Long Distance,119999,Ultra 900 Carbon Frame
+Male,23,Road Bike,4561940,Long Distance,34999,Triban RC
+Male,22,Road Bike,4322491,Long Distance,54999,Triban RC 500
+Male,21,Road Bike,5674415,Long Distance,84999,Ultra 700 AL
+Male,23,Road Bike,4563196,Long Distance,74999,Roadr 500 AFGF
+Female,26,Road Bike,5674461,Long Distance,84999,Ultra 700
+Female,27,RiverSide Bike,7893769,Commute,11999,120 Grey Yellow.
+Female,28,RiverSide Bike,6784540,Commute,6999,Riverside 50
+Female,29,RiverSide Bike,9803389,Commute,7999,Riverside 100
+Female,30,RiverSide Bike,9083034,Commute,10999,Riverside 120
+Female,25,RiverSide Bike,8904822,Commute,22999,Riverside 500
+Female,19,RiverSide Bike,7894993,Commute,37999,Riverside 900
+Female,18,RiverSide Bike,7893575,Commute,8999,Riverside 100 - Red
+Male,8,Kids Bike,8974225,Playing,8499,Rockrider 300 Jr.
+Male,9,Kids Bike,7013035,Playing,6999,Rockrider ST 120 mtb
+Male,10,Kids Bike,7024599,Playing,5999,Rockrider ST 100 Mtb - Red
+Male,11,Kids Bike,2563594,Playing,5999,Racing Boy
+Male,9,Kids Bike,2344971,Playing,8499,Poply 300
+Male,10,Kids Bike,9741381,Playing,6499,Original 50
+Male,20,Road Bike,2431831,Long Distance,19999,Triban 100 Flat Bar
+Male,25,Road Bike,8764868,Long Distance,119999,Ultra 900 Carbon Frame
+Male,23,Road Bike,4561940,Long Distance,34999,Triban RC
+Male,22,Road Bike,4322491,Long Distance,54999,Triban RC 500
+Male,21,Road Bike,5674415,Long Distance,84999,Ultra 700 AL
+Male,23,Road Bike,4563196,Long Distance,74999,Roadr 500 AFGF
+Female,26,Road Bike,5674461,Long Distance,84999,Ultra 700
+Male,13,Moutain Bike,3543269,Exercise and Commute,25999,Rockrider ST 100 Mountain bike -Black
+Male,14,Moutain Bike,6452786,Exercise and Commute,25999,Rockrider 520 mtb cycle
+Male,15,Moutain Bike,6784484,Exercise and Commute,31999,Rockrider 540 red mtb cycle
+Male,16,Moutain Bike,3493042,Exercise and Commute,12999,Rockrider 340 orange mtb cycle
+Female,25,RiverSide Bike,8904822,Commute,22999,Riverside 500
+Female,19,RiverSide Bike,7894993,Commute,37999,Riverside 100 - Red
+Female,18,RiverSide Bike,7893575,Commute,8999,Riverside 500

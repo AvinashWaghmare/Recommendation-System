@@ -1,0 +1,72 @@
+{% load material_form %}
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Student Information Form</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        {% include 'material/includes/material_css.html' %}
+        {% include 'material/includes/material_js.html' %}
+        {% block extra-css %}{% endblock %}
+    </head>
+
+    <body class="grey ligten-1">
+      <div class="navbar-fixed">
+        <nav class="indigo">
+          <div class="nav-wrapper container">
+            <a href="#" class="brand-logo" id="brand">ML Dashboard</a>
+            <ul class="right">
+                {% if user.is_authenticated %}
+                <li><a href="{% url 'login' %}">Login</a></li>
+                <li><a href="{% url 'signup' %}">Sign Up</a></li>
+                {% endif %}
+            </ul>
+          </div>
+        </nav>
+      </div>
+     {% block body %}
+     <div class="row">
+        {% block side_content %}
+        {% endblock %}
+
+        {% block main %}
+         <div class="col l12 m12 s12">
+             <div class="card center">
+                 <ul class="collapsible">
+                     <li>
+                         <div class="collapsible-header"><h5>Create Account and
+                                 Login</h5></div>
+                         <div class="collapsible-body"><span>Please sign up and
+                             create account to continue.</span></div>
+                     </li>
+                     <li>
+                         <div class="collapsible-header"><h5>Fill Up Student Information</h5></div>
+                         <div class="collapsible-body"><span>Complete the
+                                 information so that we can predict your scores</span>
+                     </li>
+                     <li>
+                         <div class="collapsible-header"><h5>View Result</h5></div>
+                         <div class="collapsible-body"><span>Your analysis is
+                                 completed.</span>
+                     </li>
+                 </ul>
+             </div>
+         </div>
+        {% endblock %}
+     </div>
+     {% endblock %}
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="      crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
+        <script>
+          $(document).ready(function(){
+             $('.collapsible').collapsible();
+             $('.tooltipped').tooltip();
+             $('ul.tabs').tabs();
+             $('.modal').modal();
+             $('.dropdown-trigger').dropdown({coverTrigger: false});
+             $('select').formSelect();
+             $('.fixed-action-btn').floatingActionButton({toolbarEnabled: true});
+          });
+        </script>
+    </body>
+</html>
